@@ -46,3 +46,5 @@ console.log("Value of village is: ", village);
 var villageTypeOf = typeof village;
 console.log("Type of village:", villageTypeOf);
 
+
+
